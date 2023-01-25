@@ -1,0 +1,10 @@
+﻿  ConsoleApplication1.cpp
+C:\Users\User\source\repos\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(103,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\User\source\repos\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(112,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\User\source\repos\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(115,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\User\source\repos\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(135,27): warning C4018: '<': signed/unsigned mismatch
+C:\Users\User\source\repos\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(160,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\User\source\repos\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(163,23): warning C4018: '<=': signed/unsigned mismatch
+C:\Users\User\source\repos\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(193,26): warning C4244: '=': conversion from 'int64_t' to 'uint32_t', possible loss of data
+C:\Users\User\source\repos\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(197,31): warning C4244: '=': conversion from '__int64' to 'uint32_t', possible loss of data
+  ConsoleApplication1.vcxproj -> C:\Users\User\source\repos\ConsoleApplication1\Debug\ConsoleApplication1.exe
